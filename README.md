@@ -37,6 +37,8 @@
 - Dredge
 - Planet Zoo
 - Balatro
+- Wing Span
+- Oath
 - Disco Elysium
 - Chants of Senaar
 - Spore
