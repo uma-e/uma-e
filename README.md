@@ -32,8 +32,10 @@
 
 
 ### 🌐 realLanguages:
-- English, Russian
-- 
+- English
+- Russian
+  
+
 ### 🎮 currGames:
 - Dredge
 - Planet Zoo
