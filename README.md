@@ -1,7 +1,8 @@
 # 🍓🍓 aboutUma! 🍓🍓
 
 - **🖥 OS:** Windows 11, Linux  
-- **⏳ Uptime:** 21 years, 6 months, and 29 days  
+- **⏳ Uptime:** 21 years, 6 months, and 29 days
+- **🍓 Passion:** Software engineering and machine learning / data science
 - **🏛️ Host:** Virginia Commonwealth University  
 - **⚙️ Kernel:** Computer Science  
 
