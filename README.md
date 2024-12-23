@@ -32,8 +32,12 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### 🎮 Favorite Games:
-![Dredge](https://img.shields.io/badge/Dredge-FFB400?style=for-the-badge&logoColor=white)
-![Planet Zoo](https://img.shields.io/badge/Planet%20Zoo-78A22F?style=for-the-badge&logoColor=white)
-![Disco Elysium](https://img.shields.io/badge/Disco%20Elysium-FF0000?style=for-the-badge&logoColor=white)
-![Slay The Spire](https://img.shields.io/badge/Slay%20The%20Spire-F4E04D?style=for-the-badge&logoColor=black)
+### 🎮 currGames:
+- Dredge
+- Planet Zoo
+- Balatro
+- Disco Elysium
+- Chants of Senaar
+- Spore
+- Potion Craft
+- Slay the Spire
