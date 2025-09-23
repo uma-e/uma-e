@@ -39,11 +39,6 @@
 ### 🎮 currGames:
 - Dredge
 - Planet Zoo
-- Balatro
-- Wing Span
-- Oath
 - Disco Elysium
 - Chants of Senaar
-- Spore
-- Potion Craft
-- Slay the Spire
+- It Takes Two
