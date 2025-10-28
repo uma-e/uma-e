@@ -1,6 +1,6 @@
 # 🍓🍓 about me 🍓🍓
 
-- Windows 11, Linux  
+- Windows, Linux  
 - Virginia Commonwealth University  
 - Computer Science  
 
