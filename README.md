@@ -1,4 +1,4 @@
-# 🍓🍓 aboutUma! 🍓🍓
+# 🍓🍓 about me! 🍓🍓
 
 - Windows 11, Linux  
 - Virginia Commonwealth University  
