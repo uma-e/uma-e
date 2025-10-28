@@ -31,14 +31,9 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 
-### 🌐 realLanguages:
-- English
-- Russian
-  
 
-### 🎮 currGames:
+### 🎮 Games:
 - Dredge
-- Planet Zoo
-- Disco Elysium
+- Hollow Knight
 - Chants of Senaar
 - It Takes Two
